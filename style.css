@@ -15,16 +15,19 @@ h1 {
 
 h2 {
   font-size: 20 px;
+  font-family: calibri;
 }
 
 a {
   text-decoration: none;
   color: #0A4261;
+  font-family: calibri;
 }
 
 a:hover {
   text-decoration: : underline;
   font-weight: 600;
+  font-family: calibri;
 }
 
 .card {
